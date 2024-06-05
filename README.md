@@ -1,4 +1,4 @@
-# HTML & CSS / JavaScript 1 course assignments
+# HTML & CSS / JavaScript 1 course assignments – "Rainy Days"
 
 ![image](https://github.com/NoroffFEU/html-css-javascript1-cross-course-assignments-vicwinsj/assets/105510116/2633d808-3ae5-4727-b9ce-1c7a00229ed3)
 
