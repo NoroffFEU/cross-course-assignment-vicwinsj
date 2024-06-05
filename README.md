@@ -1,8 +1,8 @@
-# Your project title
+# HTML & CSS / JavaScript 1 course assignments
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](https://github.com/NoroffFEU/html-css-javascript1-cross-course-assignments-vicwinsj/assets/105510116/2633d808-3ae5-4727-b9ce-1c7a00229ed3)
 
-These two projects were to demonstrate what I've learnt from the HTML & CSS and JavaScript 1 courses.
+These two projects were to demonstrate what I've learnt from the HTML & CSS and JavaScript 1 courses in the first year of my 2 year long study at the online school of Noroff, Front-end Development.
 
 ## Description
 
